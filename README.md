@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # 😄 About Me
 👋 Hi, I'm Ulin
 
-🌱 Currently learning Flask, Python, HTML, Git, Azure
+🌱 Currently learning Flask, Python, HTML, Github, Azure
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ulin-nuha-b820371b6)
