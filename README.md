@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 😄 About Me
+👋 Hi, I'm Ulin
+🌱 Currently learning Flask, Python, HTML, Git, Azure
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ulin-nuha-b820371b6)
+
+# 🔭 Github Stats
+![Ulin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nuhlin&show_icons=true&bg_color=D8BFD8&title_color=800080&text_color=4B0082&icon_color=9932CC&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nuhlin&layout=compact&bg_color=D8BFD8&title_color=800080&text_color=4B0082&icon_color=9932CC&hide_border=true)
+
